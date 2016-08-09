@@ -14,7 +14,7 @@ Ref:
 */
 
 // toggle this to use only windows 8 wm_pointer events instead of wm_touch
-#define USE_WM_POINTER_EVENTS
+//#define USE_WM_POINTER_EVENTS
 
 
 class ofxWinTouchHook {
